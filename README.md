@@ -1,6 +1,6 @@
-# Jeff Meadows
+# Jeff Devs
 
-Personal site for Jeff Meadows, published at [reveille33.github.io](https://reveille33.github.io).
+Personal site for Jeff Devs, published at [reveille33.github.io](https://reveille33.github.io).
 
 GitHub Pages serves this repository from the root of the default branch. The site is static HTML and CSS: no build step, no analytics, and no trackers.
 
