@@ -2,7 +2,8 @@
   <rect width="64" height="64" fill="#16120E"/>
   <rect x="1.5" y="1.5" width="61" height="61" rx="14" stroke="#E4B15A" stroke-width="1.5"/>
   <path d="M10 22h44M10 32h44M10 42h44" stroke="#E4B15A" stroke-opacity="0.35" stroke-width="1"/>
-  <path d="M25 13.5v27.5c0 8-11 9-13 2.5" stroke="#F4EFE6" stroke-width="3.4" stroke-linecap="round"/>
-  <path d="M36 47V18l8.2 13.2L52.4 18V47" stroke="#F4EFE6" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="13.2" cy="41.5" r="2.2" fill="#E4B15A"/>
+  <path d="M24 13.5v27.5c0 8-11 9-13 2.5" stroke="#F4EFE6" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M36 17.2v29.6" stroke="#F4EFE6" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M36.2 18.6c11.2 1 15.2 6.2 15.2 13.4s-4 13.2-15.2 14.2" stroke="#F4EFE6" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="12.4" cy="41.2" r="2.2" fill="#E4B15A"/>
 </svg>
